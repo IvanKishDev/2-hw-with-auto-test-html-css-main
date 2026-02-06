@@ -1,8 +1,12 @@
 * {
-    /* Свойства для сброса начальных стилей элементов */
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
 }
 
-body {}
+body {
+     
+}
 
 header {
     /* Стили для хедера */
