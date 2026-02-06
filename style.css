@@ -76,7 +76,7 @@ select {
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url(./assets/images/Vector-2.png);
-    padding-left: 20px;
+    padding: 0px 20px;
     appearance: none;
     font-weight: 400;
     font-size: 16px;
@@ -86,7 +86,7 @@ select {
     /* Стили для нумерованного списка во второй секции */
     font-weight: 400;
     font-size: 16px;
-    padding-left: 20px;
+    padding: 0px 20px;
 }
 
 .label {
@@ -136,14 +136,13 @@ table {
 
 th, td {
     /* Стили для ячеек таблицы */
-    padding: 11px 0 12px 15px;
+    padding: 12px 15px;
 }
 
 footer {
     /* Стили для футера */
     background-color: rgba(163, 167, 255, 0.3);
-    padding-top: 26px;
-    padding-bottom: 27px;
+    padding: 26px 0px;
 }
 
 .footer-link {
