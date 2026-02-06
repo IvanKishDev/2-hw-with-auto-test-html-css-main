@@ -5,15 +5,20 @@
 }
 
 body {
-     
+
 }
 
 header {
-    /* Стили для хедера */
+    background-color: #2965F1;
+    padding-top: 23px;
+    padding-bottom: 23px;
 }
 
 header span {
-    /* Стили для текста в хедере IT-INCUBATOR */
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
 }
 
 .main-section {
